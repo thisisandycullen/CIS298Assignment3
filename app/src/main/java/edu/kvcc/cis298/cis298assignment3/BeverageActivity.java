@@ -3,7 +3,7 @@ package edu.kvcc.cis298.cis298assignment3;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class WineActivity extends AppCompatActivity {
+public class BeverageActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
