@@ -52,6 +52,9 @@ BILL PHILLIPS, CHRIS STEWART, BRIAN HARDY AND KRISTIN MARSICANO
 
 The InClass3 example was heavily referenced for this assignment.
 
+Stack Overflow for how to print doubles with two decimals for money formatting
+http://stackoverflow.com/questions/8065114/how-to-print-a-double-with-two-decimals-in-android
+
 ## Known Problems, Issues, And/Or Errors in the Program
 
 Should work fine.
