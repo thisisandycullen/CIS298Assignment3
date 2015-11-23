@@ -1,6 +1,6 @@
 # Assignment 3 - Master Detail Wine List with Fragments
 
-## Author
+## Author - Andy Cullen
 
 
 
@@ -47,8 +47,12 @@ Through File System:   app/src/main/res/raw/
 
 ## Outside Resources Used
 
+Android Programming: The Big Nerd Ranch Guide 2nd Edition
+BILL PHILLIPS, CHRIS STEWART, BRIAN HARDY AND KRISTIN MARSICANO
 
+The InClass3 example was heavily referenced for this assignment.
 
 ## Known Problems, Issues, And/Or Errors in the Program
 
+Should work fine.
 
