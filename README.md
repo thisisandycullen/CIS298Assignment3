@@ -6,9 +6,9 @@
 
 ## Description
 
-Create a master detail application to view the contents of a beverageItem list.
-The master part will display a list of all of the beverageItem items in the list.
-The Detail part will display the details of a specific beverageItem item.
+Create a master detail application to view the contents of a beverage list.
+The master part will display a list of all of the beverage items in the list.
+The Detail part will display the details of a specific beverage item.
 The User should be able to go up and down items in the list by swiping left or right on a detail page (View Pager).
 The App should look like the screen shots I have provided.
 There is no need to save any information changed in the application to the CSV file.
